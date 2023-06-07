@@ -1,0 +1,65 @@
+.nav-link:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 121, 37);
+    
+}
+#one{
+    margin-right: 1em;
+}
+#two{
+    margin-right: 2em;
+}
+.card-img-top{
+    width: 20em;
+    height: 10em;
+
+}
+.carousel-inner{
+    height: 30em;
+    margin-top: 5em;
+}
+.card-group{
+    margin-top: 5em;
+
+}
+.card-img-top{
+    margin-left: 3em;
+}
+#hehe{
+    margin-top: 2em;
+}
+.accordion-flush{
+    margin-top: 2em;
+    margin-bottom: 5em;
+}
+.form-group{
+    margin-top: 12em;
+    margin-left: 24em;
+    margin-right: 24em;
+
+}
+.form-group2{
+    margin-left: 24em;
+    margin-right: 24em;
+}
+.form-group3{
+    margin-left: 24em;
+    margin-right: 24em;
+}
+.btn-primary{
+    margin-top: 2em;
+    margin-left: 24em;
+    margin-right: 24em;
+}
+.login-icon{
+    width: 120px;
+    height: 120px;
+    margin-top: 10em;
+    margin-left: 24em;
+    margin-bottom: -10em;
+}
+.btn-lg{
+    margin-left: 1em;
+    margin-bottom: 3em;
+}
+
